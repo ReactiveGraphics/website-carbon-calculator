@@ -30,4 +30,5 @@ Let's work together towards a more sustainable digital future! Calculate your ca
 GitHub Repository | Documentation
 
 Note: This package provides estimates based on available data and may not reflect exact carbon emissions.
+
 <a href="https://www.web-designlondon.co.uk">Web design London</a>
